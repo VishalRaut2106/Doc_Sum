@@ -74,10 +74,10 @@
 🔹 Expand multi-language support.
 
 ## 🤝 Contributors
-- Vishal Raut (@vishalraut2106)
-- Pushkar Gaikwad
-- Prerana Rajgire
-- Huzefa Sabir
+- Vishal Raut [@vishalraut2106](https://github.com/vishalraut2106)
+- Pushkar Gaikwad [@pushkar2510](https://github.com/pushkar2510)
+- Prerana Rajgire [@Prerana0901](https://github.com/prerana0901)
+- Huzefa Sabir 
 
 ## 📜 License
 This project is licensed under the **MIT License**.
