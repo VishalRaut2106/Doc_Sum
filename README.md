@@ -1,4 +1,5 @@
 # DOC-SUM: AI-Powered Document Analysis with LLMs 
+🌐Live Demo : [Doc_Sum](https://vishalraut2106.github.io/Doc_Sum/)
 
 ## 📌 Project Overview
 **DOC-SUM** is an AI-driven document analysis system designed to automate text summarization, key information extraction, and document categorization. It leverages **Large Language Models (LLMs)** to enhance accessibility, productivity, and decision-making for professionals, researchers, and businesses.
